@@ -1,6 +1,6 @@
 /* Base styles */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Inter', sans-serif;
     background-color: hsl(230, 17%, 14%);
     color: hsl(0, 0%, 100%);
     margin: 0;
@@ -180,6 +180,11 @@ input:checked+.slider:before {
     gap: 20px;
     justify-content: center;
 }
+
+/* .overview .overview-cards .overview-card .overview-views {
+    padding-bottom: 30px;
+    
+} */
 
 .overview-card {
     display: flex;
